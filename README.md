@@ -5,5 +5,5 @@ A simple python script to control a VirtualBox image that contains proteowizard 
 
 Run
 
-python vbox_msconver_mzml.py filename.RAW
+python vbox_msconvert_mzml.py filename.RAW
 
